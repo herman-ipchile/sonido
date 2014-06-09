@@ -65,6 +65,7 @@ public class MainActivity extends Activity {
 			mepe.start();
 		}
 	}
+	//para la cancion
 	public void paraCancion(View v){
 		if(mepe!=null){
 		mepe.stop();
