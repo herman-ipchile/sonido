@@ -72,6 +72,7 @@ public class MainActivity extends Activity {
 		pos=0;
 		}
 	}
+	//estamos loopenado
 	public void loopeando(View v){
 		
 		String texto =btnLoop.getText().toString();
