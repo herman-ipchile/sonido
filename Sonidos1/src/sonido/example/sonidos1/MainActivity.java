@@ -53,6 +53,7 @@ public class MainActivity extends Activity {
 		
 		
 	}
+	// se pausa
 	public void pausarCancion(View v){
 		if(mepe != null && mepe.isPlaying()){
 			pos = mepe.getCurrentPosition();
